@@ -7,14 +7,14 @@ You will also be able to find out about the various blood donation camps that ar
 
 ## Table Of Contents
 
-  1. [Features](#features-wishlist)
+  1. [Features](#features)
   2. [Design Specs](#design-specs)
   3. [Requirements for Development](#requirements-for-development)
   4. [install](#install)
   5. [Tech Stack](#tech-stack)
   6. [Contributing Guidelines](#contributing-guidelines)
 
-## Features Wishlist
+## Features
 
 - [ ] Donor Registration Form
 - [ ] We need to implement good security to protect the medical information about donors.
