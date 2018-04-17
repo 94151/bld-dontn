@@ -53,5 +53,5 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 ## Team
 
-## License 
+## Licensing
 
