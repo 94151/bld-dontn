@@ -12,7 +12,7 @@ You will also be able to find out about the various blood donation camps that ar
   3. [Requirements for Development](#requirements-for-development)
   4. [install](#install)
   5. [Tech Stack](#tech-stack)
-  6. [Contributing Guidelines](#contributing-guidelines)
+  6. [Contributing](#Contributing)
 
 ## Features
 
@@ -45,7 +45,11 @@ You will also be able to find out about the various blood donation camps that ar
 - [NodeJS](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/)
 
-## Contributing Guidelines
+## Contributing
+
+If you have any ideas, just open an issue and tell me what you think.
+
+If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
 ## Team
 
